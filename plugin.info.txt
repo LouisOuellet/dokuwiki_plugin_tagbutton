@@ -2,6 +2,6 @@ base   tagbutton
 author Louis Ouellet
 email  support@laswitchtech.com
 date   2024-10-17
-name   tagbutton plugin
+name   Tag Button plugin
 desc   Add a tag via a button
 url    https://www.dokuwiki.org/plugin:tagbutton
