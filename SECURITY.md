@@ -1,6 +1,6 @@
 # Security Policy
 
-Security vulnerabilities can be reported for the current stable release and the `master` branch.
+Security vulnerabilities can be reported for the current stable release and the `stable` branch.
 
 ## Reporting a Vulnerability
 
