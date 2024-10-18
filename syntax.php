@@ -6,7 +6,7 @@ use dokuwiki\Extension\SyntaxPlugin;
  * DokuWiki Plugin tagbutton (Syntax Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
- * @author Louis Ouellet <support@laswitchtech.com>
+ * @author Louis Ouellet <louis_ouellet@hotmail.com>
  */
 class syntax_plugin_tagbutton extends SyntaxPlugin
 {

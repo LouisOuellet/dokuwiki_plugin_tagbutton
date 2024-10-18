@@ -8,7 +8,7 @@ use dokuwiki\Extension\Event;
  * DokuWiki Plugin tagbutton (Action Component)
  *
  * @license GPL 2 http://www.gnu.org/licenses/gpl-2.0.html
- * @author Louis Ouellet <support@laswitchtech.com>
+ * @author Louis Ouellet <louis_ouellet@hotmail.com>
  */
 class action_plugin_tagbutton extends ActionPlugin
 {
